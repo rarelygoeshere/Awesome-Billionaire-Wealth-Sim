@@ -14,7 +14,7 @@ A repository for sites that illustrate the obscene wealth of a billionaire throu
 
 **[Spend Billionare Money](https://spendelonmoney.org/)** - Spend Various Billionares money
 
-**[Spend like the super rich](https://money.cnn.com/interactive/luxury/spend-like-the-super-rich/index.html}** - spend money like an average billionare
+**[Spend like the super rich](https://money.cnn.com/interactive/luxury/spend-like-the-super-rich/index.html)** - spend money like an average billionare
 
 **[Spend Bill Money](https://spendbillmoney.com/)** - Spend Various Billionares money
 
