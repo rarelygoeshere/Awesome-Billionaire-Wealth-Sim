@@ -6,9 +6,9 @@ A repository for sites that illustrate the obscene wealth of a billionaire throu
 
 **[Spend Elons Fortune](https://www.spend-elon-fortune.com/)** -  Spend Elon Musk's fortune
 
-**[Neal.fun Bill Gates](https://neal.fun/spend/)** Spend Bill Gate's Fortune
+**[Neal.fun Bill Gates](https://neal.fun/spend/)** - Spend Bill Gate's Fortune
 
-**[3pic Money](https://3pic.github.io/money)** Spend various billionaires money
+**[3pic Money](https://3pic.github.io/money)** - Spend various billionaires money
 
 **[A Real Me's Billionare Collection](https://pastebin.com/cPasQxxy)** - Spend Various Billionares money
 
