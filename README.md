@@ -22,7 +22,7 @@ A repository for sites that illustrate the obscene wealth of a billionaire throu
 
 **[Spend Billionares Money](https://spendbillions.com/)** - Spend 100$ Billion Dollars
 
-
+**[You Are Jeff Bezos](https://direkris.itch.io/you-are-jeff-bezos)** by [Kris Lorischild](https://direkris.itch.io/) - Humorous Jeff Bezos Simulator
 
 # Contributing
 
