@@ -1,4 +1,5 @@
-# Awesome Billionaire Wealth Simulators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Billionaire Wealth Simulators
 A repository for sites that illustrate the obscene wealth of a billionaire through various means, such as interactive features.
 
 
